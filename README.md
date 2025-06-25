@@ -1,32 +1,40 @@
-<h1>📦 Sistema de Controle de Estoque </h1>
+# 📦 Sistema de Controle de Estoque
 
-Este é um projeto simples de Controle de Estoque desenvolvido em C#, com o objetivo de registrar, visualizar e organizar produtos de forma prática no console.
+Este é um projeto simples de **Controle de Estoque** desenvolvido em **C#**, com o objetivo de registrar, visualizar e organizar produtos de forma prática no console.
 
-🧾 Funcionalidades
-✅ Adicionar novos produtos ao estoque
+---
 
-📋 Listar produtos cadastrados
+## 🧾 Funcionalidades
 
-📦 Controlar a quantidade de cada item
+- ✅ Adicionar novos produtos ao estoque  
+- 📋 Listar produtos cadastrados  
+- 📦 Controlar a quantidade de cada item  
+- ❌ Remover produtos do estoque  
+- ✏️ Atualizar informações dos produtos  
 
-❌ Remover produtos do estoque
+---
 
-✏️ Atualizar informações dos produtos
+## 🚀 Tecnologias
 
-🚀 Tecnologias
-C# (.NET Console App)
+- C# (.NET Console App)  
+- Coleções: `Dictionary<string, List<int>>`  
+- Lógica de repetição e controle de fluxo  
 
-Coleções: Dictionary<string, List<int>>
+---
 
-Lógica de repetição e controle de fluxo
+## 🎯 Objetivo
 
-🎯 Objetivo
-Este projeto foi criado com fins didáticos para praticar os conceitos de programação em C#, como:
+Este projeto foi criado com fins **didáticos** para praticar os conceitos de programação em **C#**, como:
 
-Estrutura de dados (listas e dicionários)
+- Estrutura de dados (listas e dicionários)  
+- Manipulação de entradas do usuário  
+- Organização de código com métodos  
+- Uso de `Console` para interação no terminal  
 
-Manipulação de entradas do usuário
+---
 
-Organização de código com métodos
+## 🛠️ Como executar
 
-Uso de Console para interação no terminal
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
